@@ -1,0 +1,240 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+@media only screen and (max-width: 390px) and (orientation: landscape){
+  
+  .Bigcontainer{
+  width: 100;
+  min-height: 100vh;
+  padding-left: 8%;
+  padding-right: 8%;
+  box-sizing: border-box;
+  overflow: hidden;
+}  
+}
+
+.F{
+    background-color: #00DBDE;
+    background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);
+    height: 100%;
+    width: 100%;
+    padding-right: 100%;
+}
+
+
+.Z{
+    display: flex;
+    
+}
+
+
+.p{
+    color: #ffffff;
+    letter-spacing:0em;
+}
+
+  .B{
+    margin-right: 200px;
+    margin-top: 90px;
+
+}
+
+
+.L{
+    margin-top: 6%;
+    margin-left: 10%;
+    margin-right: 10%;
+   
+}
+
+.I{
+    display: flex;
+    margin-left: 0%;
+    padding-bottom: 10%;
+}
+
+.H{
+    margin-left: 40Px;
+}
+
+  .G{
+    margin-left: 22%;
+    margin-bottom: 4%;
+  }
+
+
+  .M{
+    display: flex;
+    background-color: #263030;
+    background-image: linear-gradient(180deg, #263030 0%, #FC00FF 100%);
+    padding-bottom: 5%;
+    height: 100%;
+    width: 100%;
+    padding-right: 100%;
+  }
+
+  .image-container {
+    position: relative;
+    margin-left: 30%;
+    margin-top: 50px;
+  }
+
+  .image-container2 {
+    position: relative;
+    margin-left: 30%;
+    margin-top: 50px;
+  }
+
+  .image-container3 {
+    position: relative;
+    margin-left: 35%;
+    margin-top: 50px;
+  }
+  
+  .overlay-image {
+    position:absolute;
+    top: 25%;
+    left: 8%;
+  }
+
+  .A{
+    margin-top: 10%;
+    margin-left: 15%;
+    margin-right: 5%;
+    width: 100;
+  }
+
+  .T{
+    background-color: #263030;
+    background-image: linear-gradient(0deg, #263030 0%, #FC00FF 100%);
+    padding-bottom: 5%;
+    height: 100%;
+    width: 100%;
+    padding-right: 100%;
+
+  }
+
+  .T p{
+    margin-left: 10%;
+    margin-right: 20%;
+  }
+
+  .J{
+    display: flex;
+    margin-left: 35%;
+  }
+
+  .Q{
+    margin-left: 40%;
+  }
+
+  .c{
+    margin-left: 40%;
+  }
+
+  .J{
+    position: relative;
+
+    transition-property: transform;
+    transition-duration: 0.03s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+  }
+
+  .J .text{
+   color: #263030;
+    position: absolute;
+    top: 33%;
+    left: 16%; 
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 25px;
+  }
+
+  .div{
+    position: relative;
+  }
+
+  .div .text{
+   color: #263030;
+    position: absolute;
+    top: 32%;
+    left: 55%; 
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 30px;
+  }
+
+  .E{
+    position: relative;
+  }
+
+  .E .text{
+   color: #263030;
+    position: absolute;
+    top: 32%;
+    left: 8%; 
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 28px;
+  }
+
+  .V{
+    position: relative;
+  }
+
+  .V .text{
+   color: #263030;
+    position: absolute;
+    top: 32%;
+    left: 55%; 
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 30px;
+  }
+
+  .image-container .text{
+    color: #263030;
+    position: absolute;
+    top: 36%;
+    left: 30%; 
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 25px;
+
+  }
+
+  .image-container .tex{
+    color: #263030;
+    position: absolute;
+    top: 36%;
+    left: 80%; 
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 25px;
+
+  }
+
+  .image-container2 .text{
+    color: #263030;
+    position: absolute;
+    top: 32%;
+    left: 50%; 
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 25px;
+
+  }
+
+  .image-container3 .text{
+    color: #263030;
+    position: absolute;
+    top: 32%;
+    left: 50%; 
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 25px;
+
+  }
